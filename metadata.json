@@ -1,0 +1,10 @@
+{
+    "id": "paws",
+    "name": "Paws",
+    "author": ["Nycki"],
+    "description": "Replace \"Hands\" with \"Paws\".",
+    "prefix": "paws",
+    "main_file": "paws.lua",
+    "version": "0.1.0",
+	"dependencies": ["Steamodded (>=1.0.0~ALPHA-1204a)"]
+}
